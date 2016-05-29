@@ -1,0 +1,3 @@
+PUSH 65
+OUT
+LOAD -2

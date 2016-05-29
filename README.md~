@@ -29,9 +29,6 @@ Está planteada como un desarrollo evolutivo dividido en 5 entregas:
 ###Práctica 5:###
 
 
-###Configuración ejemplo###
--m window -a VMprograms/quitarAes.asm -i VMprograms/entrada.in -o VMprograms/salida.out
-
 Autores
 -------
 >**Grupo 14**<br>
